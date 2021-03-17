@@ -1,5 +1,5 @@
-# URL-Shortner-app
-## This app is used to shorten a long url.
+## URL-Shortner-app
+This app is used to shorten a long url.
 
 <h3 align="left">🔴 Support:</h3>
 <a href="https://paypal.me/gbalaram?locale.x=en_GB" target="_blank"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt=""></a>
